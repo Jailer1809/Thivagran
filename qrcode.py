@@ -271,3 +271,4 @@ st.markdown("""
 4. *Customization*: Use the sidebar to customize colors, size, and error correction level
 5. *History*: View and download your recently generated QR codes
 """)
+
